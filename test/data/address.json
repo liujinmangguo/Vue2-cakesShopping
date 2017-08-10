@@ -1,0 +1,46 @@
+{
+  "status":0,
+  "message":"",
+  "result":[
+    {
+      "addressId":"100001",
+      "userName":"liujinmangguo",
+      "streetName":"上海市 闵行区 浦秀路639弄46号1室",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":true
+    },
+    {
+      "addressId":"100002",
+      "userName":"liujinmangguo",
+      "streetName":"上海市 闵行区 浦秀路639弄46号2室",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100003",
+      "userName":"liujinmangguo",
+      "streetName":"上海市 闵行区 浦秀路639弄46号3室",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100004",
+      "userName":"liujinmangguo",
+      "streetName":"上海市 闵行区 浦秀路639弄46号4室",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100005",
+      "userName":"liujinmangguo",
+      "streetName":"上海市 闵行区 浦秀路639弄46号5室",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    }
+  ]
+}

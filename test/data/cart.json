@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "message": "success",
+  "result": {
+      "totalMoney":0,
+      "list":[
+      {
+      "name": "cake1",
+      "price": 19,
+      "count": 1,
+      "amount": 19,
+      "imgPic": "img/cake1.jpg",
+      "gifts": [
+        {
+          "partId":"10001",
+          "partName":"打火机"
+        },
+        {
+          "partId":"10002",
+          "partName":"火柴"
+        }
+      ]
+      },
+      {
+      "name": "cake2",
+      "price": 20,
+      "count": 11,
+      "amount": 20,
+      "imgPic": "img/cake2.jpg",
+        "gifts": [
+          {
+            "partId":"10001",
+            "partName":"打火机"
+          },
+          {
+            "partId":"10002",
+            "partName":"火柴盒"
+          }
+        ]
+      },
+        {
+          "name": "cake3",
+
+          "price": 20,
+          "count": 12,
+          "amount": 20,
+          "imgPic": "img/cake3.jpg",
+          "gifts": [
+            {
+              "partId":"10001",
+              "partName":"打火机"
+            },
+            {
+              "partId":"10002",
+              "partName":"火柴盒"
+            }
+          ]
+        }
+      ]
+  }
+
+}
